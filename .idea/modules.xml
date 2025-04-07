@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod_Restaurant/FactoryMethod_Restaurant.iml" filepath="$PROJECT_DIR$/FactoryMethod_Restaurant/FactoryMethod_Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_Contracte/Prototype_Contracte.iml" filepath="$PROJECT_DIR$/Prototype_Contracte/Prototype_Contracte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Senzor_SimpleFactory/Senzor_SimpleFactory.iml" filepath="$PROJECT_DIR$/Senzor_SimpleFactory/Senzor_SimpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub1.iml" filepath="$PROJECT_DIR$/Sub1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub1_Reluare/Sub1_Reluare.iml" filepath="$PROJECT_DIR$/Sub1_Reluare/Sub1_Reluare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub2/Sub2.iml" filepath="$PROJECT_DIR$/Sub2/Sub2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub3/Sub3.iml" filepath="$PROJECT_DIR$/Sub3/Sub3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub3_Reluare/Sub3_Reluare.iml" filepath="$PROJECT_DIR$/Sub3_Reluare/Sub3_Reluare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub4_Pantof/Sub4_Pantof.iml" filepath="$PROJECT_DIR$/Sub4_Pantof/Sub4_Pantof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub4_Prototype/Sub4_Prototype.iml" filepath="$PROJECT_DIR$/Sub4_Prototype/Sub4_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub5/Sub5.iml" filepath="$PROJECT_DIR$/Sub5/Sub5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub5/Sub5_2/Sub5_2.iml" filepath="$PROJECT_DIR$/Sub5/Sub5_2/Sub5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sub7/Sub7.iml" filepath="$PROJECT_DIR$/Sub7/Sub7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubSpital_Factory/SubSpital_Factory.iml" filepath="$PROJECT_DIR$/SubSpital_Factory/SubSpital_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiectul_Stick/Subiectul_Stick.iml" filepath="$PROJECT_DIR$/Subiectul_Stick/Subiectul_Stick.iml" />
+    </modules>
+  </component>
+</project>
